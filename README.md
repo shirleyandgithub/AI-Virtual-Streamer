@@ -8,6 +8,13 @@
 口型与驱动模型：Wav2Lip<br>
 </p><br><br><br>
 
+
+
+**<p> 日志输出示例：<br>**
+<img width="733" height="576" alt="image" src="https://github.com/user-attachments/assets/3b55e5bb-fecd-477d-9e23-29b1ffed9109" />
+</p>
+
+
 **<p>技术架构如下：</p>**
 
 **<p> 分层：<br>**
@@ -48,6 +55,9 @@ FAQ语料：可回答的问题（如价格、度数、产地等）<br>
 1. 防刷屏：如每30秒最多回答1条问题<br>
 2. 长回答：只能在“问答插槽”中播放<br>
 </p><br>
+
+
+
 
 
 
