@@ -3,8 +3,8 @@
 
 <p>这是一个“虚拟人直播带货+直播答疑”系统。<br></p>
 <p>
-文生图模型：太乙<br>
-文生语音模型：chattts<br>
+虚拟形象生成：扩散模型和ControlNet<br>
+语音生成：chattts<br>
 口型与驱动模型：Wav2Lip<br>
 </p><br><br><br>
 
