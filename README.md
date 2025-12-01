@@ -11,8 +11,8 @@
 
 
 **<p> 日志输出示例：<br>**
-<img width="733" height="576" alt="image" src="https://github.com/user-attachments/assets/3b55e5bb-fecd-477d-9e23-29b1ffed9109" />
-</p>
+<img width="706" height="568" alt="image" src="https://github.com/user-attachments/assets/3895d9eb-4854-49bb-a0c7-60b6853dd21e" />
+</p><br><br>
 
 
 **<p>技术架构如下：</p>**
